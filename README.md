@@ -1,5 +1,8 @@
 # lukitr-warm-reception
 Flipper Zero files, courtesy of Lukitr the cyberdolphin
 
+infrared:
+  - MSAFF_3D_LED_Clock.ir: Infrared remote for MSAFF 3D LED Alarm Clock with Power, Backlight, and Right key functions (Right key cycles through time, date, and temperature)
+
 subghz:
-  - GE_Doorbell_19298.sub: GE Wireless Doorbell Kit 19298
+  - GE_Doorbell_19298.sub: Ring the doorbell (if it's a GE Wireless Doorbell Kit 19298 like my mother-in-law's)
