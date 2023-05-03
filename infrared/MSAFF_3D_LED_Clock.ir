@@ -1,0 +1,20 @@
+Filetype: IR signals file
+Version: 1
+# 
+name: Power
+type: parsed
+protocol: NECext
+address: 7B 43 00 00
+command: 10 EF 00 00
+# 
+name: Light
+type: parsed
+protocol: NECext
+address: 7B 43 00 00
+command: 20 DF 00 00
+# 
+name: Right
+type: parsed
+protocol: NECext
+address: 7B 43 00 00
+command: 15 EA 00 00
