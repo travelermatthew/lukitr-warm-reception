@@ -8,4 +8,4 @@ nfc:
   - Mattnelson_works.nfc: Opens the website mattnelson.works in a web browser. Write it to some NFC cards and hand them out at tech industry events.
 
 subghz:
-  - GE_Doorbell_19298.sub: Ring the doorbell (if it's a GE Wireless Doorbell Kit 19298 like my mother-in-law's)
+  - GE_Doorbell_19298.sub: Ring the doorbell (if it's a GE Wireless Doorbell Kit 19298)
